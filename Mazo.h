@@ -1,4 +1,6 @@
 #include "./Carta.h"
+#include <algorithm>
+#include <random>
 
 class Mazo{
     
