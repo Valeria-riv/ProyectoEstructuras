@@ -37,3 +37,10 @@ void Mazo::mostrar(){
     }
     
 }
+
+void Mazo::barajar(){
+    
+    random_device semilla;
+    mt19937 generador(semilla()); 
+    shuffle(begin(Cartas), end(Cartas), generador);
+}

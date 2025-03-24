@@ -1,5 +1,4 @@
 #include <iostream>
-#include "./Carta.h"
 #include "./Mazo.h"
 
 
