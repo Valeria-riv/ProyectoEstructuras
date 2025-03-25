@@ -5,28 +5,22 @@
 
 ## Clonacion del proyecto 
 Para clonar este repositorio iremos a la terminal de git y utilizaremos el comando de 
-"git clone" y usaremos esta direccion de enlace: ""
+"git clone" y usaremos esta direccion de enlace: "https://github.com/Valeria-riv/ProyectoEstructuras.git"
 
 ## Estructura del codigo 
 El codigo esta estructurado por los siguientes archivos 
 
-  1   Archivos.h
-      Carta.h
-      Jugador.h
-      Mazo.h
-  2  Archivos.cpp
-      Carta.cpp
-      jugador.cpp
-      Mazo.cpp
-      main.cpp
- ├─ images/
-     └─ cap1.jpg
- ├─ README.md
- 
-Donde la clase proncipal es la clase main 
-
+1. Archivos.h
+2. Carta.h
+3. Jugador.h
+4. Mazo.h
+5. Archivos.cpp
+6. Carta.cpp
+7. jugador.cpp
+8. Mazo.cpp
+9. main.cpp
 
 ### Autores
-Valeria Rivera Uribe 
-La maquina Restrepo ochoa 
-David Cardeño Calle 
+1. Valeria Rivera Uribe 
+2. Danny Restrepo ochoa 
+3. David Cardeño Calle 
