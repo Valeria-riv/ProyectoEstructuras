@@ -52,6 +52,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/David-CC-dev/David-CC-dev/output/snake.svg" alt="Snake animation" />
+https://raw.githubusercontent.com/David-CC-dev/David-CC-dev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Diagrama UML</h2>
+
+###
+
+![e04d115a-8daa-4258-a501-317e4ddb77ef](https://github.com/user-attachments/assets/4375f7b6-6b47-4415-99fd-96f329cc4be0)
 
 ###
