@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-CC-dev/David-CC-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-CC-dev/David-CC-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/David-CC-dev/David-CC-dev/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
@@ -50,9 +46,6 @@
 
 <p align="left">Valeria Rivera Uribe<br>Danny Andres Rendon Cataño<br>David Cardeño Calle</p>
 
-###
-
-https://raw.githubusercontent.com/David-CC-dev/David-CC-dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
