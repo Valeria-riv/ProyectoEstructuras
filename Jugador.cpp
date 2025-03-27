@@ -21,7 +21,7 @@ Carta Jugador::tirarCarta(int indice){
 }
 
     void Jugador::mostrarMano() {
-    cout << "Jugador " << id << ", tu mano: ";
+    cout << "Jugador " << id + 1 << ", tu mano: ";
     for (size_t i = 0; i < mano.size(); i++) {
         cout << "[" << i << "] ";
         mano[i].mostrar();
